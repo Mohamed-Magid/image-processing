@@ -30,3 +30,4 @@ plt.hist(equalization.ravel())
 # put title for image
 plt.title( 'histogram equalization' )
 # show image
+plt.show()
